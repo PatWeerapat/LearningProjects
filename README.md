@@ -1,2 +1,2 @@
 # LearningProjects
-็Hello world
+Hello world
